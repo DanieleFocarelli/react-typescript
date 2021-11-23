@@ -44,3 +44,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Roadmap for REACT
+
+-   Cosa è una single-page-application
+-   React con typescript
+-   Saper creare un component react e capire il lifecycle di ogni componente:
+                - functional component
+                - class component
+                - hook
+-   Differenza tra proprietà e stato
+-   Concetti avanzati React:
+                - HOC
+                - Context
+                - Refs
+-   Redux con redux-dev-tools
+
